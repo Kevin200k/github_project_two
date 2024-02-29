@@ -1,2 +1,2 @@
 # githubprj2
-this is my test project, Updated
+this is my test project
